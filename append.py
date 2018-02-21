@@ -1,3 +1,4 @@
-a=['sree','sandi','resh']
-a.append('mathi')
-print (a)
+l = ['sreemathy']
+l.append('.')
+s ="".join(l)
+print (s)
