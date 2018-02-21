@@ -1,0 +1,5 @@
+n=int(input("enter a number"))
+k=int(input("enter a number"))
+n=str(n)
+k=str(k)
+print(n.count(k))
