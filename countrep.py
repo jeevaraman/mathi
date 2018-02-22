@@ -4,5 +4,5 @@ n=str(a)
 m=str(check)
 for i in n:
   count = m.count(i)
-  print (i, count)    
+  print (i)    
     
